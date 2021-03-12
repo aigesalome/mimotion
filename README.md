@@ -24,7 +24,7 @@
 
 ### 四、自定义启动时间
 
-编辑 **.github/workflows/run.yml**
+编辑 **.github/workflows/run.yml*
 
 找到 cron: 0 10 * * *
 
